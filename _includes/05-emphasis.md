@@ -1,3 +1,3 @@
 - **handsome**
 - *smart*
-- ***funny***
+- **funny**
